@@ -1,0 +1,76 @@
+2023-05-23 18:05:724 INFO  LoginPage :30 - Enter username Admin to userName field Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='txtUsername']'<br>
+2023-05-23 18:05:185 INFO  LoginPage :30 - Enter username Admin to userName field [[ChromeDriver: chrome on WINDOWS (1db9e0b753acc0c65c2fc4edad27926e)] -> xpath: //input[@placeholder='Username']]<br>
+2023-05-23 18:05:659 INFO  LoginPage :38 - Enter password admin123 to password field Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='txtPassword']'<br>
+2023-05-23 18:05:865 INFO  LoginPage :47 - Clicking on Login Button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnLogin']'<br>
+2023-05-23 18:05:972 INFO  LoginPage :30 - Enter username Admin to userName field [[ChromeDriver: chrome on WINDOWS (70cf0118a9caf7694e0dd59970f42cb4)] -> xpath: //input[@placeholder='Username']]<br>
+2023-05-23 18:05:382 INFO  LoginPage :38 - Enter password admin123 to password field Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='txtPassword']'<br>
+2023-05-23 18:05:388 INFO  LoginPage :30 - Enter username AdminAdmin to userName field [[ChromeDriver: chrome on WINDOWS (0c3d672098c2f131f65d64711626b26b)] -> xpath: //input[@placeholder='Username']]<br>
+2023-05-23 18:05:661 INFO  LoginPage :37 - Enter password admin123 to password field [[ChromeDriver: chrome on WINDOWS (0c3d672098c2f131f65d64711626b26b)] -> xpath: //input[@placeholder='Password']]<br>
+2023-05-23 18:05:02 INFO  LoginPage :46 - Clicking on Login Button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnLogin']'<br>
+2023-05-23 18:05:164 INFO  LoginPage :45 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (05d4a1680592377bed945e8d61d461b6)] -> xpath: //button[@type='submit']]<br>
+2023-05-23 18:05:538 INFO  LoginPage :45 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (aae7f98f3e9f92986a77546143112072)] -> xpath: //button[@type='submit']]<br>
+2023-05-23 18:05:827 INFO  LoginPage :30 - Enter username AdminAdmin to userName field Proxy element for: DefaultElementLocator 'By.xpath: //input[@placeholder='Username']'<br>
+2023-05-23 19:05:104 INFO  LoginPage :30 - Enter username AdminAdmin to userName field [[ChromeDriver: chrome on WINDOWS (f5fd724268dd02715cf39548f91d6ae8)] -> xpath: //input[@placeholder='Username']]<br>
+2023-05-23 19:05:425 INFO  LoginPage :37 - Enter password admin123 to password field [[ChromeDriver: chrome on WINDOWS (f5fd724268dd02715cf39548f91d6ae8)] -> xpath: //input[@placeholder='Password']]<br>
+2023-05-23 19:05:794 INFO  LoginPage :45 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (f5fd724268dd02715cf39548f91d6ae8)] -> xpath: //button[@type='submit']]<br>
+2023-05-23 22:05:307 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-23 22:05:175 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-23 22:05:299 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-23 22:05:507 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-23 22:05:464 INFO  LoginPage :36 - Enter User Name
+2023-05-23 22:05:804 INFO  LoginPage :42 - Enter Password
+2023-05-23 22:05:332 INFO  LoginPage :48 - Click on login tab
+2023-05-23 22:05:470 INFO  HomePage :26 - Click on admin tab
+2023-05-23 22:05:375 INFO  HomePage :32 - Get System User text 
+2023-05-23 22:05:633 INFO  ViewSystemUsersPage :55 - Enter employee name
+2023-05-23 22:05:490 INFO  ViewSystemUsersPage :85 - Click on delete button
+2023-05-23 22:05:652 INFO  ViewSystemUsersPage :91 - Click on ok button
+2023-05-23 22:05:812 INFO  ViewSystemUsersPage :97 - Click on success text
+2023-05-23 22:05:184 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-23 22:05:979 INFO  LoginPage :36 - Enter User Name
+2023-05-23 22:05:174 INFO  LoginPage :42 - Enter Password
+2023-05-23 22:05:363 INFO  LoginPage :48 - Click on login tab
+2023-05-23 22:05:153 INFO  DashboardPage :29 - Get dashboard text
+2023-05-23 22:05:363 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-23 22:05:887 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-23 22:05:368 INFO  LoginPage :36 - Enter User Name
+2023-05-23 22:05:693 INFO  LoginPage :42 - Enter Password
+2023-05-23 22:05:123 INFO  LoginPage :48 - Click on login tab
+2023-05-23 22:05:138 INFO  DashboardPage :35 - Click on profile
+2023-05-23 22:05:308 INFO  DashboardPage :41 - Click on logout tab
+2023-05-23 22:05:236 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-23 22:05:33 INFO  LoginPage :36 - Enter User Name
+2023-05-23 22:05:329 INFO  LoginPage :42 - Enter Password
+2023-05-23 22:05:764 INFO  LoginPage :48 - Click on login tab
+2023-05-23 22:05:767 INFO  HomePage :26 - Click on admin tab
+2023-05-23 22:05:847 INFO  HomePage :32 - Get System User text 
+2023-05-23 22:05:907 INFO  AdminPage :28 - Click on add button
+2023-05-23 22:05:302 INFO  AdminPage :34 - Get add user text :
+2023-05-23 22:05:554 INFO  AddUserPage :44 - Enter employee name :
+2023-05-23 22:05:919 INFO  AddUserPage :76 - Enter User name
+2023-05-23 22:05:421 INFO  AddUserPage :58 - Enter Password :
+2023-05-23 22:05:580 INFO  AddUserPage :64 - Enter confirm password
+2023-05-23 22:05:787 INFO  AddUserPage :70 - Click on save button
+2023-05-23 22:05:843 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-23 22:05:722 INFO  LoginPage :36 - Enter User Name
+2023-05-23 22:05:29 INFO  LoginPage :42 - Enter Password
+2023-05-23 22:05:419 INFO  LoginPage :48 - Click on login tab
+2023-05-23 22:05:437 INFO  HomePage :26 - Click on admin tab
+2023-05-23 22:05:213 INFO  HomePage :32 - Get System User text 
+2023-05-23 22:05:267 INFO  AdminPage :28 - Click on add button
+2023-05-23 22:05:905 INFO  AddUserPage :44 - Enter employee name :
+2023-05-23 22:05:213 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-23 22:05:758 INFO  LoginPage :36 - Enter User Name
+2023-05-23 22:05:88 INFO  LoginPage :42 - Enter Password
+2023-05-23 22:05:452 INFO  LoginPage :48 - Click on login tab
+2023-05-23 22:05:493 INFO  HomePage :26 - Click on admin tab
+2023-05-23 22:05:411 INFO  HomePage :32 - Get System User text 
+2023-05-23 22:05:668 INFO  ViewSystemUsersPage :55 - Enter employee name
+2023-05-23 22:05:57 INFO  ManageBrowser :30 - launching chrome browser
+2023-05-23 22:05:771 INFO  LoginPage :36 - Enter User Name
+2023-05-23 22:05:97 INFO  LoginPage :42 - Enter Password
+2023-05-23 22:05:432 INFO  LoginPage :48 - Click on login tab
+2023-05-23 22:05:480 INFO  HomePage :26 - Click on admin tab
+2023-05-23 22:05:321 INFO  HomePage :32 - Get System User text 
+2023-05-23 22:05:376 INFO  ViewSystemUsersPage :55 - Enter employee name
+2023-05-23 22:05:293 INFO  ViewSystemUsersPage :104 - CLick on no record found text
